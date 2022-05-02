@@ -1,6 +1,6 @@
 ## trello-clone
 
-Here you can create a **boards**.
+Here you can create **boards**.
 
 Create **groups** in boards.
 
